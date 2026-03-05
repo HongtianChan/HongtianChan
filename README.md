@@ -15,41 +15,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-### drunk@macau
-
-```text
-OS         macOS (Apple Silicon M3)
-Host       MUST · CS Junior
-Shell      zsh @ Ghostty
-Editor     Cursor / Zed
-Deploy     Vercel, Cloudflare Workers
-DB         Supabase
-```
-
-</td>
-<td width="50%">
-
-### Stack
-
-```text
-Lang       TypeScript, Swift, Python
-Frontend   Next.js, Tailwind, SwiftUI
-Backend    Node.js, Workers
-Tools      GitHub CLI, Obsidian
-AI         Heavy user since 2023
-```
-
-</td>
-</tr>
-</table>
-
-
----
-
 ### Stats
 
 <div align="center">
