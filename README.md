@@ -14,10 +14,10 @@
 </div>
 
 > [!NOTE]
-> **Now** — CPS / 鸿天惠、AI 能量站想法、电梯 30s 设计。Next.js + Vercel + Supabase。
+> **Now** — CPS、AI 能量站。Next.js + Vercel + Supabase。
 
 > [!TIP]
-> **Goal** — 一个项目做到出结果；年收入 10w+。不考研、不打工。
+> **Goal** — ：)
 
 > [!TIP]
 > **Reach** — [Optipick](https://optipick-system.vercel.app) · 想聊就开 issue 或 DM。
