@@ -13,15 +13,6 @@
 
 </div>
 
-> [!NOTE]
-> **Now** — CPS、AI 能量站。Next.js + Vercel + Supabase。
-
-> [!TIP]
-> **Goal** — ：)
-
-> [!TIP]
-> **Reach** — [Optipick](https://optipick-system.vercel.app) · 想聊就开 issue 或 DM。
-
 ---
 
 <table>
@@ -56,15 +47,6 @@ AI         Heavy user since 2023
 </tr>
 </table>
 
----
-
-### Bento
-
-| **Build** | **Ship** |
-|:---|:---|
-| Optipick · Coinflip · CPS | [optipick-system.vercel.app](https://optipick-system.vercel.app) |
-| **Learn** | **Vibe** |
-| 电梯 30s · 衣柜 App · 商业大赛 | vibe-coder · 决策比逐行懂更重要 |
 
 ---
 
@@ -79,10 +61,4 @@ AI         Heavy user since 2023
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HongtianChan&theme=tokyo-night&hide_border=true)
 
-</div>
-
----
-
-<div align="center">
-<sub>克制是高级感的来源。</sub>
 </div>
